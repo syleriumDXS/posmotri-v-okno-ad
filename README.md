@@ -1,1 +1,1 @@
-project posmotri-v-okno-ad
+https://github.com/syleriumDXS/posmotri-v-okno-ad
